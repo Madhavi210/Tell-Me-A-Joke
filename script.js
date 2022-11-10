@@ -44,6 +44,7 @@ me : hecker :(:
 me : Bugs : /` , `harry sir: give me cheers <br> me : hip hip <strong>array!</strong>`, `harry sir : (teaching) There are two ways to write error-free programs; <br>me : (interrupting sadly) only the third works.debugging : (`, `harry sir : What is debugging? <br>
 me : Removing the needles from the haystack.`, `harry sir : What did the colon say to the semicolon?<br> me: Stop winking at me ; )`, `There are only 10 types of people in this world…
 Those who understand binary and those who don’t.`,]
+
 // used basic css and html taught by harry sir in 1 video
 let i = 0;
 const random = () => {
