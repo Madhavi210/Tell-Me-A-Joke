@@ -20,6 +20,7 @@ html, body {
     width: 220px;
     text-align: center;
   }
+
   #next{
     font-size: 20px;
     display:block;
@@ -44,8 +45,8 @@ html, body {
     margin:auto;
     height: 37px;
     width:128px;
-   
   }
+
   #jokes{
     color: white;
     font-size: 31px;
@@ -58,4 +59,3 @@ html, body {
     border-radius: 0px 30px;
     background-color: #9a1a04;;
   }
-  
